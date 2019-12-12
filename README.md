@@ -4,10 +4,10 @@
 
 This adds a custom background to the loading screen if Resource Loader is installed inside of the folder resources/mainmenu/bg.png
 
-```background = addStretchedTexture("top_left", "mainmenu:bg.png")
+```
+background = addStretchedTexture("top_left", "mainmenu:bg.png")
 background.setRelRender(1, 1)
 ```
-
 ## Tip Adding:
 
 This adds Tips to the top left of the screen named Tip 1, Tip 2, and Tip 3
